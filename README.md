@@ -5,7 +5,7 @@ Todo list in Flask(python)
   - bd.sqlite: this file contains the database information and all the attributes.
 # Templates File
   - base.html: this file is the main file to run, contains Python formatted scripts and source code.
-# __pycache__ File
+# __Pycache__ File
   - sets up the enviornment in order to run the program(but, I recommend running the program on linux).
 # Install venv
   Before running the appilcation make sure you have the enviornment files
