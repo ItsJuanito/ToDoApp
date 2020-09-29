@@ -1,6 +1,6 @@
 # ToDoApp
 Todo list in Flask(python)
-# Master File
+# Master Folder
   - app.py: this is the main file that contains python source code. 
   - bd.sqlite: this file contains the database information and all the attributes.
 # Templates File
