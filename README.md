@@ -6,7 +6,7 @@ Todo list in Flask(python)
 # Templates Folder
   - base.html: this file is the main file to run, contains Python formatted scripts and source code.
 # __Pycache__ Folder
-  - sets up the enviornment in order to run the program(but, I recommend running the program on linux).
+  - cache(stores data so that future requests can be fast).
 # Activate venv
   Before running the appilcation make sure you have the enviornment files activated.
   (How to activate venv)
